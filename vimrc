@@ -48,6 +48,9 @@ Plug 'mattn/vim-goimports'
 " Color Schemes
 Plug 'cocopon/iceberg.vim'
 
+" Git
+Plug 'lambdalisue/gina.vim'
+
 call plug#end()
 
 let g:lsp_signs_enabled = 1

@@ -1,3 +1,12 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhistcnt =1
-let g:netrw_dirhist_1='/Users/ryuta.udo/.vim/autoload'
+let g:netrw_dirhist_1='/Users/ryuta.udo/.vim'
+let g:netrw_dirhist_0='/Users/ryuta.udo/.vim/autoload'
+let g:netrw_dirhist_9='/Users/ryuta.udo/.vim'
+let g:netrw_dirhist_8='/Users/ryuta.udo/.vim/autoload'
+let g:netrw_dirhist_7='/Users/ryuta.udo/.vim'
+let g:netrw_dirhist_6='/Users/ryuta.udo/ANDPAD/andpad-approval-bff'
+let g:netrw_dirhist_5='/Users/ryuta.udo/ANDPAD'
+let g:netrw_dirhist_4='/Users/ryuta.udo/ANDPAD/andpad-approval-bff'
+let g:netrw_dirhist_3='/Users/ryuta.udo/MyProjects/gopherdojo-studyroom/kadai3-1'
+let g:netrw_dirhist_2='/Users/ryuta.udo/MyProjects/my-first-go'
